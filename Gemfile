@@ -22,3 +22,7 @@ group :test do
   gem 'selenium-webdriver'
   gem 'simplecov', require: false
 end
+
+group :production do
+  gem 'unicorn'
+end
