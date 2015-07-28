@@ -1,0 +1,29 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/yuhoshino/recipe/taskapp/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/yuhoshino/recipe/taskapp/app/helpers/home_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/yuhoshino/recipe/taskapp/app/controllers/home_controller.rb": [
+        1,
+        1,
+        2,
+        null,
+        null
+      ],
+      "/Users/yuhoshino/recipe/taskapp/app/controllers/application_controller.rb": [
+        1,
+        null,
+        null,
+        1,
+        null
+      ]
+    },
+    "timestamp": 1438085112
+  }
+}
