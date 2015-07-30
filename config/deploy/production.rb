@@ -1,5 +1,6 @@
 set :stage, :production
 set :rails_env, 'production'
+set :default_env, 'SECRET_KEY_BASE' => ENV['SECRET_KEY_BASE']
 key_path = '~/.ssh/taskapp'
 server '127.0.0.1', port: 2201,
                     roles: %w(web app db),
